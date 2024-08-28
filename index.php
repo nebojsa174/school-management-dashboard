@@ -10,5 +10,10 @@
     <div class="px-5 py-5 bg-slate-500">
         <h1 class= "font-medium">hello world</h1>
     </div>
+
+    <a href="student">Student</a>
+    <a href="teacher">teacher</a>
+    <a href="test">test</a>
+    <a href="admin">admin</a>
 </body>
 </html>
