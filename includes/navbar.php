@@ -1,4 +1,3 @@
-<div class="w-[86%] md:w-[92%] lg:w-[84%] xl:w-[86%] bg-[#F7F8FA] overflow-scroll flex flex-col">
     <div class="flex items-center justify-between p-4">
         <!-- SEARCH -->
         <div class='hidden md:flex items-center gap-2 text-xs rounded-full ring-[1.5px] ring-gray-300 px-2'>
@@ -21,4 +20,3 @@
             <img src="./public/assets/avatar.png" alt="" width="36" height="36" class="rounded-full" />
         </div>
     </div>
-</div>

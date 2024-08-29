@@ -120,7 +120,7 @@ $menuItems = [
 <div class="w-[14%] md:w-[8%] lg:w-[16%] xl:w-[14%] p-4">
     <a href="/" class="flex items-center justify-center lg:justify-start gap-2">
         <img src="./public/assets/logo.png" alt="logo" width="32" height="32">
-        <span class="hidden lg:block font-bold">SchoolLama</span>
+        <span class="hidden lg:block font-bold">SchoolDashboard</span>
     </a>
 
     <div class="mt-4 text-sm">
